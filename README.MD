@@ -1,4 +1,4 @@
-## Estos son PDF son para aprender de programación. 
+## Estos PDF son para aprender de programación. 
 
 A continuación, encontrarás diferentes odf con información clave para poder estudiar programación estan en la carpeta `PDF` Aquí tienen un breve resumen del los contenidos:
 
